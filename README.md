@@ -16,7 +16,7 @@ For any issues or bugs, please [contact us](https://www.altimate.ai/support) via
 | [Column lineage](#lineage)                                  | Model lineage as well as column lineage                                                                                                 |
 | [Generate dbt™ Models](#genmodel)                          | from source files or convert SQL to dbt™ Model (docs)                                                                                  |
 | [Generate documentation](#gendoc)                           | Generate model and column descriptions or write in the UI editor. Save formatted text in YAML files.                                    |
-| [Defer to prod](#defertoprod)                               | Build your model in development without building (by defering) your upstream models                                                     |
+| [Defer to prod](#defertoprod)                               | Build your model in development without building (by deferring) your upstream models                                                     |
 | [Click to run parent / child models and tests](#clicktorun) | Just click to do common dbt™ operations like running tests, parent / child models or previewing data.                                  |
 | [Compiled query preview and explanation](#queryexplanation) | Get live preview of compiled query as your write code. Also, generate explanations for dbt™ code written previously (by somebody else) |
 | [Project health check](#healthcheck)                        | Identify issues in your dbt™ project like columns not present, models not materialized                                                 |
